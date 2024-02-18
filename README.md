@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Gao-Lezhe
+- 📫 My email:gaolezhe@outlook.com
+-    I'm from The People's Republic of China
+-    I'm born in Shanghai,The People's Republic of China
+-    I'm born on 2012.01.17
+-    I'm born on 2012-01-17
+- 🙋‍♂️ I'm male
+-     This is also my account:@LezheGao
